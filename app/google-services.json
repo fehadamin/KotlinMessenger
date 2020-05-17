@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "239514970442",
+    "firebase_url": "https://kotlinmessenger-8580a.firebaseio.com",
+    "project_id": "kotlinmessenger-8580a",
+    "storage_bucket": "kotlinmessenger-8580a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239514970442:android:643f879b690a83c671b9b3",
+        "android_client_info": {
+          "package_name": "letsbuildthatapp.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239514970442-jmljl38qe7q3gp617akoaohojoc3ogo2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5zFBBUyj9t1eDSQuB0IE7sOfaQcFy0eU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239514970442-jmljl38qe7q3gp617akoaohojoc3ogo2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
